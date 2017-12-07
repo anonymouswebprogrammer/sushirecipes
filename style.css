@@ -82,7 +82,7 @@
 
 .recipepicture{
   width: 100%;
-}
+  }
 
 #cardfield{
   margin-bottom: 60px;
@@ -96,8 +96,8 @@
 #recipetitle {
   font-family: Garamond;
   letter-spacing: 0em;
+  float: left;
 }
-
 
 #cardholder{
   width: 200px;
@@ -164,4 +164,8 @@
 
 #inline{
   width: 100%;
+}
+
+#rating{
+  float: right;
 }
